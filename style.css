@@ -1,0 +1,42 @@
+	#textepresentation
+		{
+			padding: 10px;
+		    font-style: italic;
+			font-weight: bold;
+			  text-decoration: underline;
+			   border-width:1px;
+				border-style:dotted;
+				border-color:black;
+				float : right;
+			} 
+.image1
+{
+	 border: black 2px solid;
+}	
+
+.box
+{
+	display:flex;
+	
+}
+
+.article1 
+{
+        flex: 1 1 auto;
+		margin-left : 10px;
+		margin-right : 10px;
+}
+
+.article2
+{
+	flex: 1 1 auto;
+	margin-left : 10px;
+		margin-right : 10px;
+}
+
+.article 3
+{
+	flex 1 1 auto;
+	margin-left : 10px;
+		margin-right : 10px;
+}
